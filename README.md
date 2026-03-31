@@ -1,5 +1,9 @@
 # Trekker Codex Plugin
 
+<p align="center">
+  <img src="./assets/trekker.svg" alt="Trekker logo" width="96" />
+</p>
+
 Codex plugin for [Trekker](https://github.com/obsfx/trekker), the AI-oriented issue tracker built for coding agents.
 
 Repository: [github.com/obsfx/trekker-codex](https://github.com/obsfx/trekker-codex)
