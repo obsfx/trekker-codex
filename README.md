@@ -66,6 +66,8 @@ The plugin is designed as a home-local Codex plugin:
 - plugin path: `~/plugins/trekker-codex`
 - marketplace file: `~/.agents/plugins/marketplace.json`
 
+This repo also includes a repo-scoped marketplace at `.agents/plugins/marketplace.json` so Codex can discover `trekker-codex` directly when you open this repository. Because the plugin itself lives at the repo root, that marketplace entry points `source.path` at `./`.
+
 No build step or package-manager install step is required for installation. The MCP server runs directly from `mcp-server/src/index.js` and uses only Node.js plus the `trekker` CLI.
 
 ### Option A: Install From GitHub
