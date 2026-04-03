@@ -1,6 +1,6 @@
 ---
 name: start-task
-description: Start tracked work the right way: search first, restore task context, check dependencies, then mark the task in progress.
+description: "Start tracked work the right way: search first, restore task context, check dependencies, then mark the task in progress."
 ---
 
 # Start Task
